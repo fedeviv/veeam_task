@@ -1,0 +1,17 @@
+<config>
+    <file
+            source_path="/Users/federicoviviani/Desktop/task"
+            destination_path="/Users/federicoviviani/Desktop/task/dst_folder1"
+            file_name="random_object_1.txt"
+    />
+    <file
+            source_path="/Users/federicoviviani/Desktop/task"
+            destination_path="/Users/federicoviviani/Desktop/task/dst_folder2"
+            file_name="random_object_2.txt"
+    />
+    <file
+            source_path="/Users/federicoviviani/Desktop/task"
+            destination_path="/Users/federicoviviani/Desktop/task/dst_folder2"
+            file_name="random_object.py"
+    />
+</config>
